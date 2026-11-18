@@ -1,0 +1,11 @@
+﻿{
+    "apps":  [
+                 {
+                     "name":  "DElbar-v1",
+                     "path":  "C:\\Users\\Kourosh\\Desktop\\delbar archive\\V-beta-1\\Delbar-v1-source\\dist",
+                     "port":  8000,
+                     "url":  "http://127.0.0.1:8000/"
+                 }
+             ],
+    "defaultName":  "DElbar-v1"
+}
