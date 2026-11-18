@@ -31,7 +31,6 @@ This serves static front-end files only. It does not run PHP, Node backends, dat
 4. Select it in the dropdown and click **Launch app**.
 5. To launch it automatically on future starts, select it and click **Set selected as default**.
 
-For a project archive with `dist/index.html`, select the `dist` folder, not its parent. For example, for Delbar choose `Delbar-v1-source/dist`.
 
 ## Browser storage
 
