@@ -56,7 +56,7 @@ git init
 git add .
 git commit -m "Initial Ashkan Localhost release"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/ashkan-localhost.git
+git remote add origin https://github.com/ashkan261/ashkan-localhost.git
 git push -u origin main
 ```
 
